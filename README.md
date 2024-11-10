@@ -1,4 +1,5 @@
-# This project is part of a university assignment for the course on Assembly Languages. The project implements the SHA-256 (Secure Hash Algorithm 256-bit) cryptographic hashing function in both C# (high-level) and x64 Assembly (low-level), with the goal of creating a 64-bit application that supports multi-threading and performs efficient data processing using SIMD (Single Instruction, Multiple Data) instructions. SHA-256 generates a unique 256-bit hash for any given input data, widely used in cryptography for data validation, digital signatures, and cryptocurrency applications.
+# Description
+This project is part of a university assignment for the course on Assembly Languages. The project implements the SHA-256 (Secure Hash Algorithm 256-bit) cryptographic hashing function in both C# (high-level) and x64 Assembly (low-level), with the goal of creating a 64-bit application that supports multi-threading and performs efficient data processing using SIMD (Single Instruction, Multiple Data) instructions. SHA-256 generates a unique 256-bit hash for any given input data, widely used in cryptography for data validation, digital signatures, and cryptocurrency applications.
 
 # Key Features:
 ## Two Equivalent Libraries:
